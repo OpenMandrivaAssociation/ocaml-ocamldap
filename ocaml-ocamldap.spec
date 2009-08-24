@@ -5,7 +5,7 @@ Summary:        LDAP bindings for OCaml
 License:        LGPL
 Group:          Development/Other
 URL:            http://homepage.mac.com/letaris/
-Source0:        http://homepage.mac.com/letaris/ocamldap-2.1.8.tar.bz2
+Source0:        http://homepage.mac.com/letaris/ocamldap-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 BuildRequires:  ocaml-findlib
 BuildRequires:  ocaml-pcre
