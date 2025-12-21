@@ -7,6 +7,7 @@ Group:          Development/Other
 URL:            https://homepage.mac.com/letaris/
 Source0:        http://homepage.mac.com/letaris/ocamldap-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
+BuildRequires:	make
 BuildRequires:  ocaml-findlib
 BuildRequires:  ocaml-pcre
 BuildRequires:  ocaml-ocamlnet-devel
