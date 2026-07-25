@@ -1,6 +1,6 @@
 Name:           ocaml-ocamldap
 Version:        2.1.8
-Release:        %mkrel 1
+Release:        2
 Summary:        LDAP bindings for OCaml 
 License:        LGPL
 Group:          Development/Other
